@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Department Major Computer Science
 
 ## :🔭: Graduation Project
-- AI Techniques for stroke brain Telemedicine system (Python, Network)[:link:] (https://github.com/m0hamedafifi/Brain-stroke)
+- AI Techniques for stroke brain Telemedicine system (Python, Network) :link: [Click-here](https://github.com/m0hamedafifi/Brain-stroke)
 - 🎯 Project Grade: Excellent
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
