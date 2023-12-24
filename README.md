@@ -45,8 +45,10 @@ Software Engineer at Techno Service Company
 [<img align="center" alt="MohamedAfify | LinkedIn" title="Follow ِfifty on LinkedIn"  height="40em" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" />](https://www.linkedin.com/in/mohamed-afifi-739baa159/)
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="fifty | Instagram" title="Follow fifty on Instagram"/>](https://instagram.com/m0hamedafifi)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="40em" align="center" alt="afify | Hacker Rank" title="Follow afify on Hacker Rank"/>](https://www.hackerrank.com/profile/afifimohamed765)
+<br />
+
 OR by sending mail to
-[Email]: [Mohamedafifi4298@gmail.com](mailto:mohamedafifi4298@gmail.com)
+🖨️ [Mohamedafifi4298@gmail.com](mailto:mohamedafifi4298@gmail.com)
 
 ## :computer: Skills & Tools:
 
