@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ## :pencil: Education 
-- faculty of comuter and Information - Ain Shams University  (2020)
+- faculty of computer and Information - Ain Shams University  (2020)
 - Department Major Computer Science
 
 ## :🔭: Graduation Project
 - AI Techniques for stroke brain Telemedicine system (Python, Network)
-- 🎯 Project Grade : Excellent
+- 🎯 Project Grade: Excellent
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 Software Engineer
@@ -36,15 +36,15 @@ Software Engineer at Techno Service Company
 
 
 - 🎯 𝙸𝚗 𝚝𝚑𝚎 𝚗𝚎𝚊𝚛 𝚏𝚞𝚝𝚞𝚛𝚎, 𝙸 𝚙𝚕𝚊𝚗 𝚝𝚘...
-	- speak English fluently
-  - gain more skills, information and experience in my field 
+  - speak English fluently
+  - gain more skills, information, and experience in my field 
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
 
 [<img align="left" alt="MohamedAfify | LinkedIn" title="Follow ِfifty on LinkedIn" width="22px" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" />][https://www.linkedin.com/in/mohamed-afifi-739baa159/]
-OR by Send Mail to
+OR by sending mail to
 [Email]: [Mohamedafifi4298@gmail.com](mailto:mohamedafifi4298@gmail.com)
 
 ## :computer: Skills & Tools:
@@ -65,7 +65,7 @@ OR by Send Mail to
 
 <br />
 
-- ⚡ Hobbies: I love learning new technologies, watching Football , Movies and Playing Pes Versions
+- ⚡ Hobbies: I love learning new technologies, watching Football, Movies and Playing PES versions
 
 <br /><br /><br />
 
