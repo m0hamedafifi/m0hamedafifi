@@ -66,7 +66,7 @@ OR by sending mail to
 <img align="left" height="23px" alt="C++" title="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 
 <br /><br /><br />
-- ⚡ Hobbies: I love learning new technologies, watching Football, Movies and Playing PES versions
+- ⚡ Hobbies: I love learning new technologies, watching Football, Movies and 🎮 Playing PES versions
 <br />
 
 --- 
